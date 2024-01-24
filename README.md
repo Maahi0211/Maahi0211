@@ -1,3 +1,5 @@
+<img src="Hey There.gif"/>
+
 ###
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), My name is Mahi Patel.
 
@@ -38,7 +40,7 @@
 <br />
 
 <p align="center">
-<img width="500px"  src="https://quotes-github-readme.vercel.app/api?theme=algolia&quote=If%20you%20know%20you%20can%20do%20better%20then%20do%20better.&border=true&author=Me"  />
+<img width="500px"  src="https://quotes-github-readme.vercel.app/api?theme=algolia&quote=If%20you%20know%20you%20can%20do%20better,%20then%20do%20better.&border=true&author=Me"  />
 </p>
 
 
