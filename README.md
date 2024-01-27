@@ -15,7 +15,7 @@
 <!-- My about section-->
 > - 🌍 I'm based in Indore.
 > - 🖥 See my portfolio at [coming soon!](https://#).
-> - ✉ You can contact me at [LinkedIn](https://www.linkedin.com/in/mahi-patel-509ab1247/).
+> - ✉ You can contact me at [LinkedIn](https://www.linkedin.com/in/mahipatel02).
 > - 🧠 I’m constantly learning and exploring new technologies to improve my skills.
 > - 🤝 I'm open to collaborating on open-source projects and innovative applications.
 > - ⚡ Check my repos and learn more about my journey and stack.
