@@ -10,7 +10,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maahi0211&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](if you know you can do better, than do better.)
+> "If you know you can do better, then do better."
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Maahi0211&icon=7&color=0)](https://visitcount.itsvg.in)
