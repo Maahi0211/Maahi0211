@@ -9,7 +9,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Maahi0211&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maahi0211&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ 
 > "If you know you can do better, then do better."
 
 
